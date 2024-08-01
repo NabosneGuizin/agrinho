@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #E0FFFF;
 }
 
 /* Container para centralizar o conteúdo */
@@ -21,7 +21,7 @@ body {
 
 /* Estilos do cabeçalho */
 header {
-    background-color: #333;
+    background-color: #7FFFD4;
     color: #fff;
     padding: 1rem 0;
 }
